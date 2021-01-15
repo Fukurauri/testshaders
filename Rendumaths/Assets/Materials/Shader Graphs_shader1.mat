@@ -38,6 +38,6 @@ Material:
     - Vector1_aabda065dbeb48a7915815256aa99a5d: 8.88
     - Vector1_b669861cf2b344d6ae868a049bb1cfac: 0.6
     - Vector1_bd7208c90e1e42649195e14fbab685cd: 1
-    - mon_input: 0.1427002
+    - mon_input: -0.10525513
     m_Colors: []
   m_BuildTextureStacks: []
